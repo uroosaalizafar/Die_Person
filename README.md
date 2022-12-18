@@ -1,4 +1,4 @@
-# Die_Person
+# Die Person
 This is a MVVM Demo Project. I am using "https://gorest.co.in/" users api to create, delete, update users and show list of users.
 
 # Design pattern
